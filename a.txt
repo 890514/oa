@@ -7,3 +7,5 @@
 github update 01;
 local new object
 github update 02;
+我是一只小小鸟
+天空好美
